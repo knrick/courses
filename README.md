@@ -11,6 +11,12 @@ This repository tracks my continuous learning journey across various platforms a
   - Course URL
   - Completion Date
 
+- `books.md` - List of all books with details including:
+  - Book Name
+  - Author
+  - URL
+  - Completion Date
+
 ## Purpose
 
 - Track educational progress

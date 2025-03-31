@@ -17,8 +17,8 @@
 | Stepik | Basic Statistics. Part III | Bioinformatics Institute | [Course Link](https://stepik.org/course/2152) | December 2021 |
 | Stepik | Basic Statistics. Part II | Bioinformatics Institute | [Course Link](https://stepik.org/course/524) | November 2021 |
 | Coursera | Data Visualization | University of Illinois Urbana-Champaign | [Course Link](https://www.coursera.org/learn/datavisualization) | September 2021 |
-| Coursera | Religions and Society in China | HSE University | [Course Link](https://www.coursera.org/learn/religions-society-china) | February 2021 |
 | Coursera | Model Thinking | University of Michigan | [Course Link](https://www.coursera.org/learn/model-thinking) | August 2019 |
 | Coursera | Miracles of Human Language: An Introduction to Linguistics | Universiteit Leiden, Meertens Instituut (KNAW) | [Course Link](https://www.coursera.org/learn/human-language) | May 2019 |
+| Stepik | Hadoop. Big Data Processing System | VK Team | [Course Link](https://stepik.org/course/150) | July 2018 |
 | Stepik | Basic Statistics | Bioinformatics Institute | [Course Link](https://stepik.org/course/76) | July 2018 |
 | Stepik | Neural Networks | Bioinformatics Institute | [Course Link](https://stepik.org/course/401) | April 2018 |
